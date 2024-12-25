@@ -27,7 +27,7 @@ Este repositorio contiene el ambiente de desarrollo local con las herramientas d
 
 1. Usar la plantilla de este repositorio para crear un nuevo repositorio.
 1. Editar el siguiente botón con la ORG (organización) y REPO (repositorio) final:
-[![Code in Cardano Workspace](https://demeter.run/code/badge.svg)](https://demeter.run/code?repository=https://github.com/iog-edu-argentina-2024/starter-template.git&template=typescript)
+[![Code in Cardano Workspace](https://demeter.run/code/badge.svg)](https://demeter.run/code?repository=https://github.com/sergioHelou/starter-template.git&template=typescript)
 1. Click en el botón y seguir las instrucciones.
 1. Agregar Aiken a tu proyecto usando la UI de Demeter.
 
